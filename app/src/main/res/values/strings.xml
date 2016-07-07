@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrabalhoFinal</string>
+
+    <!--TELA DE CADASTRO DE USUÁRIO-->
+    <string name="textCadastro">Cadastrar Usuário</string>
+    <string name="edtNome">Nome</string>
+    <string name="edtApelido">Apelido</string>
+    <string name="btnCadastro">Cadastrar</string>
+    <string name="urlBase">http://www.nobile.pro.br/sdm/mensageiro/</string>
+
+
+</resources>
